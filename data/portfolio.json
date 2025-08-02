@@ -1,0 +1,138 @@
+{
+  "personal": {
+    "name": "Kush Patel",
+    "title": "Data Scientist",
+    "bio": " A data science graduate student at Illinois Institute of Technology with a strong foundation in machine learning, statistical analysis, and data-driven decision-making.",
+    "location": "Chicago",
+    "email": "patel.h.kush@gmail.com",
+    "github": "https://github.com/kush-pixel",
+    "linkedin": "https://linkedin.com/in/kush-patel-868840211",
+    "website": "https://kushpixel.dev",
+    "avatar": "/images/me.jpg?height=200&width=200"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Kush 👋",
+    "headline": "I turn data into actionable insights",
+    "description": "Data science graduate student with expertise in machine learning, analytics, and web development. Passionate about solving problems using data and building intelligent, user-focused applications.",
+    "cta": "Explore My Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a highly motivated Master’s student in Data Science at Illinois Institute of Technology with a passion for extracting insights from data. Strong analytical, communication, and team collaboration skills, with hands-on experience in tools and technologies for impactful decision-making.",
+    "highlights": [
+      "Master’s student in Data Science with strong analytical and problem-solving skills",
+      "Hands-on experience in Python, SQL, R, ReactJS, NodeJS, and Django",
+      "Worked on data-driven projects involving machine learning, blockchain, and web development",
+      "Built predictive models and conducted data analysis to drive insights and improve outcomes"
+    ]
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "categories": [
+      {
+        "name": "Frontend",
+        "skills": [
+          "ReactJS",
+          "Next.js",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Backend",
+        "skills": [
+          "NodeJS",
+          "Django",
+          "MySQL",
+          "MongoDB",
+          "SQLite"
+        ]
+      },
+      {
+        "name": "Data Science & Analytics",
+        "skills": [
+          "Python",
+          "Pandas",
+          "R",
+          "TensorFlow",
+          "Power BI",
+          "Tableau"
+        ]
+      },
+      {
+        "name": "Tools & Others",
+        "skills": [
+          "Git",
+          "GitHub",
+          "MS Office Suite",
+          "AWS"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": " Dashask: Auto-Grading Subjective Test Platform",
+      "description": "A system which allows teachers to add subjective questions in online examination which does not require students to use pen and paper and scan the pages occupying extra time which cuts out the time of the examination.",
+      "image": "/images/DashAsk.png?height=300&width=500",
+      "technologies": [
+        "Django",
+        "TypeScript",
+        "Python",
+        "SCSS"
+      ],
+      "github": "https://github.com/kush-pixel/Automatic-Answer-grading-using-ML.git",
+      "demo": "https://ecommerce-demo.kushpixel.dev",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "KnowMeBetter",
+      "description": " A static web-portfolio generator which seamlessly integrates with your github account to showcase your portfolio to the entire world.",
+      "image": "/images/knowmebetter.png?height=300&width=500",
+      "technologies": [
+        "Next.js",
+        "React",
+        "github OAuth"
+      ],
+      "github": "https://github.com/kush-pixel/Know_Me_Better.git",
+      "demo": "https://tasks.kushpixel.dev",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Diabetes Prediction",
+      "description": " Built interpretable and reliable models for predicting diabetes using structured health data. We integrate multiple datasets — including the Diabetes Prediction Dataset from Kaggle, the Pima Indians Diabetes Dataset, and the LARS dataset — to explore key risk factors and develop robust machine learning models.",
+      "image": "/images/Diabetes-Prediction-Using-Machine-Learning.webp?height=300&width=500",
+      "technologies": [
+        "R"
+      ],
+      "github": "https://github.com/kush-pixel/CSP-571-Summer.git",
+      "demo": "https://weather.kushpixel.dev",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Decentralised voting app",
+      "description": "A Decentralized Application (Dapp) running on the Ethereum blockchain and client side as a React JS application. All the contract code is written in solidity language which is used to deploy contract in blockchain platform. This application can be used by Election Commission (officials responsible for conducting Elections) as well as Voters",
+      "image": "/images/VDapp.png?height=300&width=500",
+      "technologies": [
+        "React",
+        "Truffle",
+        "Metamask",
+        "Solidity",
+        "Web3 JS"
+      ],
+      "github": "https://github.com/kush-pixel/VDapp_MiniProject1.git",
+      "demo": "https://kushpixel.dev",
+      "featured": false
+    }
+  ],
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "I'm always interested in new opportunities and exciting projects.",
+    "cta": "Get In Touch"
+  }
+}
