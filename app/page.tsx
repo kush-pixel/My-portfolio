@@ -267,7 +267,7 @@ export default function Portfolio() {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <motion.div whileHover={{ scale: 1.05 }} className="text-xl font-bold text-slate-900 dark:text-slate-100">
-              {data.personal.name.split(" ")[0]}
+              {data.personal.name}
             </motion.div>
 
             <div className="hidden md:flex items-center space-x-8">
